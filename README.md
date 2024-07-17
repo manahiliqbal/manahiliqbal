@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manahiliqbal&label=Profile%20views&color=0e75b6&style=flat" alt="manahiliqbal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manahiliqbal" alt="manahiliqbal" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manahiliqbal" alt="manahiliqbal" /></a> </p> -->
 - 😄 Pronouns: She/her
 
 - 🌱 I’m currently learning **React, Node and Express**
