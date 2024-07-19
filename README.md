@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Manahil</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">A passionate 3rd year comp sci student learning full stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manahiliqbal&label=Profile%20views&color=0e75b6&style=flat" alt="manahiliqbal" /> </p>
 
