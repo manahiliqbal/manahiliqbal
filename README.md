@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
  Hi, I'm Manahil 👋
 
-🚀 final year comp sci student learning full stack development and machine learning
+🚀 A final year Computer Science student learning Full Stack Development and Machine Learning
 
  🔗 Connect with Me
 
@@ -93,9 +93,9 @@ Here are some ideas to get you started:
 🏆 Featured Projects
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| [**Cardify**](link-to-project) | A web based SaaS application designed to generate and strore flashhcards | React, Node, Express, Mongo DB |
-| [**LeetCode Solutions**](link-to-project) | My journey through algorithmic problem-solving | C++ |
-| [**Chathub**](link-to-project) | A web based chat application supporting real time conversations | React, Node, Express, Mongo DB, Socket.io |
+| [**Cardify**](https://github.com/manahiliqbal/Cardify) | A web based SaaS application designed to generate and strore flashhcards | React, Node, Express, Mongo DB |
+| [**LeetCode Solutions**](https://github.com/manahiliqbal/Leetcode) | My journey through algorithmic problem-solving | C++ |
+| [**Chathub**](https://github.com/manahiliqbal/chat-hub) | A web based chat application supporting real time conversations | React, Node, Express, Mongo DB, Socket.io |
 
 
 
