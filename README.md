@@ -41,3 +41,77 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahiliqbal&theme=dark" alt="manahiliqbal" /></p>
 
+ Hi, I'm [Your Name] 👋
+
+🚀 Software Engineer | 💡 Tech Enthusiast | 🌱 Lifelong Learner
+
+
+
+ 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](your-github-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](your-portfolio-url)
+
+
+
+ 💼 About Me
+- 🔭 Currently working on: **[eosvolt](link-to-project)**, a project leveraging Google Maps API.
+- 🌱 Learning: Enhancing my skills in **Machine Learning** and **Cloud Technologies**.
+- 🛠️ Passionate about **open-source** contributions and **algorithmic problem-solving**.
+- 👯 Available for collaboration in **C++** projects or **API integrations**.
+
+
+
+ ⚙️ Tech Stack
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+
+
+🏆 Featured Projects
+| Project Name | Description | Tech Stack |
+|--------------|-------------|------------|
+| [**eosvolt**](link-to-project) | A location-based application using Google Maps API | C++, Google Maps API |
+| [**LeetCode Solutions**](link-to-project) | My journey through algorithmic problem-solving | C++, Python |
+| [**Another Project**](link-to-project) | Description of the project | Tech Stack |
+
+
+
+📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent)
+
+</div>
+
+
+🏅 Certifications & Achievements
+- **Certified AWS Solutions Architect** – [Certification Link](link-to-certification)
+- **LeetCode Top 10%** – Ranked in the top 10% of global LeetCode problem solvers.
+- **Open-Source Contributor** – Contributed to X open-source repositories.
+
+
+📬 Contact Me
+Feel free to reach out for any project collaboration or tech discussions!
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+
+
+
+
+
