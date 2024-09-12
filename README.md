@@ -10,20 +10,20 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
--->
-<h1 align="center">Hi, I'm Manahil</h1>
+
+<--<h1 align="center">Hi, I'm Manahil</h1>
 <h3 align="center">A passionate final year comp sci student learning full stack development and machine learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manahiliqbal&label=Profile%20views&color=0e75b6&style=flat" alt="manahiliqbal" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manahiliqbal" alt="manahiliqbal" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manahiliqbal" alt="manahiliqbal" /></a> </p> 
 - 😄 Pronouns: She/her
 
 - 🌱 I’m currently learning **Next.js and ML libraries**
 
 - 📫 How to reach me **manahiliqbal0511@gmail.com**
 
-<!-- - 📄 Know about my experiences [https://manahiliqbal.github.io/Resume/](https://manahiliqbal.github.io/Resume/) -->
+<!-- - 📄 Know about my experiences [https://manahiliqbal.github.io/Resume/](https://manahiliqbal.github.io/Resume/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,27 +39,25 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manahiliqbal&show_icons=true&locale=en&theme=dark" alt="manahiliqbal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahiliqbal&theme=dark" alt="manahiliqbal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahiliqbal&theme=dark" alt="manahiliqbal" /></p> -->
 
- Hi, I'm [Your Name] 👋
+ Hi, I'm Manahil 👋
 
-🚀 Software Engineer | 💡 Tech Enthusiast | 🌱 Lifelong Learner
-
-
+🚀 final year comp sci student learning full stack development and machine learning
 
  🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](your-github-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manahil-iqbal)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/manahiliqbal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](your-portfolio-url)
 
 
 
  💼 About Me
-- 🔭 Currently working on: **[eosvolt](link-to-project)**, a project leveraging Google Maps API.
+<!-- - 🔭 Currently working on: **[eosvolt](link-to-project)**, a project leveraging . -->
 - 🌱 Learning: Enhancing my skills in **Machine Learning** and **Cloud Technologies**.
-- 🛠️ Passionate about **open-source** contributions and **algorithmic problem-solving**.
-- 👯 Available for collaboration in **C++** projects or **API integrations**.
+- 🛠️ Passionate about **web development** and **machine learning**.
+- 👯 Available for collaboration in **web development** projects or **API integrations**.
 
 
 
@@ -68,14 +66,25 @@ Here are some ideas to get you started:
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!--![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)-->
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 
 </div>
 
@@ -84,9 +93,9 @@ Here are some ideas to get you started:
 🏆 Featured Projects
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| [**eosvolt**](link-to-project) | A location-based application using Google Maps API | C++, Google Maps API |
-| [**LeetCode Solutions**](link-to-project) | My journey through algorithmic problem-solving | C++, Python |
-| [**Another Project**](link-to-project) | Description of the project | Tech Stack |
+| [**Cardify**](link-to-project) | A web based SaaS application designed to generate and strore flashhcards | React, Node, Express, Mongo DB |
+| [**LeetCode Solutions**](link-to-project) | My journey through algorithmic problem-solving | C++ |
+| [**Chathub**](link-to-project) | A web based chat application supporting real time conversations | React, Node, Express, Mongo DB, Socket.io |
 
 
 
@@ -94,22 +103,22 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manahiliqbal&show_icons=true&theme=transparent&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manahiliqbal&layout=compact&theme=transparent)
 
 </div>
 
-
-🏅 Certifications & Achievements
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manahiliqbal&label=Profile%20views&color=0e75b6&style=flat" alt="manahiliqbal" /> </p>
+<!--🏅 Certifications & Achievements
 - **Certified AWS Solutions Architect** – [Certification Link](link-to-certification)
 - **LeetCode Top 10%** – Ranked in the top 10% of global LeetCode problem solvers.
-- **Open-Source Contributor** – Contributed to X open-source repositories.
+- **Open-Source Contributor** – Contributed to X open-source repositories. -->
 
 
 📬 Contact Me
 Feel free to reach out for any project collaboration or tech discussions!
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manahiliqbal0511@gmail.com)
 
 
 
