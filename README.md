@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manahil-iqbal)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/manahiliqbal)
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](your-portfolio-url)
-![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode%20Problems%20Solved-150-green)-->
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](your-portfolio-url) -->
+![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode%20Problems%20Solved-150-green?style=for-the-badge)](https://leetcode.com/manahiliqbal)
 
 
  💼 About Me
