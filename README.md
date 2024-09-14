@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manahil-iqbal)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/manahiliqbal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](your-portfolio-url)
-[![LeetCode Profile](https://leetcode.com/manahiliqbal/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode_Profile-Visit%20My%20Profile-blue)](https://leetcode.com/manahiliqbal/)
 
 
  💼 About Me
