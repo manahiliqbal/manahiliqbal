@@ -52,8 +52,8 @@ Here are some ideas to get you started:
  💼 About Me
 - 🌱 Learning: Enhancing my skills in **machine learning** and **next.js**.
 - 🛠️ Passionate about **full stack web development** and **machine learning**.
-- 👯 Available for collaboration in **web development** projects.
-- 🔭 Currently working on: **[sentilect](https://github.com/manahiliqbal/Sentilect)**, a project leveraging hugging face API.
+<!--- 👯 Available for collaboration in **web development** projects.-->
+<!--- 🔭 Currently working on: **[sentilect](https://github.com/manahiliqbal/Sentilect)**, a project leveraging hugging face API.-->
 
 
 
