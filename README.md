@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahiliqbal&layout=compact&theme=transparent" alt="manahiliqbal" /></p>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manahiliqbal&label=Profile%20views&color=0e75b6&style=flat" alt="manahiliqbal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manahiliqbal&label=Profile%20views&color=0e75b6&style=flat" alt="manahiliqbal"/> </p>
 <!--🏅 Certifications & Achievements
 - **Certified AWS Solutions Architect** – [Certification Link](link-to-certification)
 - **LeetCode Top 10%** – Ranked in the top 10% of global LeetCode problem solvers.
