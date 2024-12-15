@@ -38,22 +38,23 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahiliqbal&theme=dark" alt="manahiliqbal" /></p> -->
 
- Hi, I'm Manahil 👋
-
-🚀 A final year Computer Science student learning Full Stack Development and Machine Learning
-
 <div>
 <img align="left" src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="50%" height="70%"/>
 
-<span align="right">
+
+  Hi, I'm Manahil 👋
+
+🚀 A final year Computer Science student learning Full Stack Development and Machine Learning
+
+
  🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manahil-iqbal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-green?style=for-the-badge)](https://leetcode.com/manahiliqbal) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge)](https://manahiliqbal.my.canva.site/portfolio)
 <!--[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/manahiliqbal)-->
-</span>
-</div>
+
+
 
 
 
@@ -92,7 +93,7 @@ Here are some ideas to get you started:
 <!--![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)-->
 
 </div>
-
+</div>
 
 
 <!--🏆 Featured Projects
