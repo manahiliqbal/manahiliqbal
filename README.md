@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 🚀 A final year Computer Science student learning Full Stack Development and Machine Learning
 
-<img src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="50%" height="70%"/>
+<img src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="100%" height="50%"/>
 
  🔗 Connect with Me
 
