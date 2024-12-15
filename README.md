@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manahiliqbal&show_icons=true&locale=en&theme=dark" alt="manahiliqbal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahiliqbal&theme=dark" alt="manahiliqbal" /></p> -->
-<table style="border: none;">
+<table>
   <tr>
     <td>
       <img src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="100%" height="100%" />
