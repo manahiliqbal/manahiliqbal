@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
   <h2>Final Year Computer Science Student</h2>
-    <p>🔍 <strong>Learning Full Stack Development</strong> | 🤖 <strong>Exploring Machine Learning</strong></p>
+    🔍 <strong>Learning Full Stack Development | 🤖 <strong>Exploring Machine Learning
     
   <h3>🔗 Connect with Me</h3>
     <p>
