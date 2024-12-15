@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
-  <img align="right" src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="50%" height="70%" style="margin-right: 20px;" />
+  <img align="left" src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="50%" height="70%" style="margin-right: 20px;" />
 
 
-    <h2>Final Year Computer Science Student</h2>
+  <h2>Final Year Computer Science Student</h2>
     <p>🔍 <strong>Learning Full Stack Development</strong> | 🤖 <strong>Exploring Machine Learning</strong></p>
     
   <h3>🔗 Connect with Me</h3>
