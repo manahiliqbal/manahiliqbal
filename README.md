@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <img src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="50%" height="70%" />
+      <img src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="100%" height="100%" />
     </td>
     <td style="padding-left: 20px;">
       <h2>Final Year Computer Science Student</h2>
