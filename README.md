@@ -37,11 +37,40 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manahiliqbal&show_icons=true&locale=en&theme=dark" alt="manahiliqbal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahiliqbal&theme=dark" alt="manahiliqbal" /></p> -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="50%" height="70%" />
+    </td>
+    <td style="padding-left: 20px;">
+      <h2>Final Year Computer Science Student</h2>
+      <p>🔍 <strong>Learning Full Stack Development</strong> | 🤖 <strong>Exploring Machine Learning</strong></p>
+      <h3>🔗 Connect with Me</h3>
+    <p>
+      <a href="https://linkedin.com/in/manahil-iqbal">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+      </a>
+      <a href="https://leetcode.com/manahiliqbal">
+        <img src="https://img.shields.io/badge/LeetCode-green?style=for-the-badge" alt="LeetCode">
+      </a>
+      <a href="https://manahiliqbal.my.canva.site/portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge" alt="Portfolio">
+      </a>
+    </p>
+    
+  <h3>💼 About Me</h3>
+    <ul>
+      <li>🌱 Currently learning and exploring <strong>Generative AI</strong> and <strong>Flask</strong>.</li>
+      <li>🛠️ Passionate about building impactful solutions using <strong>Full Stack Web Development</strong> and <strong>Machine Learning</strong>.</li>
+    </ul>
+    </td>
+  </tr>
+</table>
 
-<div>
+<!-- <div>
 
   <img align="left" src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="50%" height="70%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
 
    <h3> Hi, I'm manahil 🌱 </h3> 
  
@@ -67,8 +96,8 @@ Here are some ideas to get you started:
       <li>🌱 Currently learning and exploring <strong>Generative AI</strong> and <strong>Flask</strong>.</li>
       <li>🛠️ Passionate about building impactful solutions using <strong>Full Stack Web Development</strong> and <strong>Machine Learning</strong>.</li>
     </ul>
-  </div>
-
+  </div> 
+-->
 
 
  ⚙️ Tech Stack
