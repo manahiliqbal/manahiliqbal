@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahiliqbal&theme=dark" alt="manahiliqbal" /></p> -->
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex">
 
   <img align="left" src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="50%" height="70%" style="margin-right: 20px;" />
 
