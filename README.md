@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <div>
 <img align="left" src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="50%" height="70%"/>
 
-<span align="right>
+<span align="right">
  🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manahil-iqbal)
