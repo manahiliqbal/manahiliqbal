@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 <div>
 
   <img align="left" src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="50%" height="70%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
    <h3> Hi, I'm manahil 🌱 </h3> 
  
