@@ -38,30 +38,35 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahiliqbal&theme=dark" alt="manahiliqbal" /></p> -->
 
-<div>
-<img align="left" src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="50%" height="70%" style="margin-right: 20px;" />
+<div style="display: flex; align-items: center; gap: 20px;">
 
-  Hi, I'm Manahil 👋
+  <img align="left" src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="50%" height="70%" style="margin-right: 20px;" />
 
-🚀 A final year Computer Science student learning Full Stack Development and Machine Learning
-
-
- 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manahil-iqbal)
-[![LeetCode](https://img.shields.io/badge/LeetCode-green?style=for-the-badge)](https://leetcode.com/manahiliqbal) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge)](https://manahiliqbal.my.canva.site/portfolio)
-<!--[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/manahiliqbal)-->
-
-
-
-
-
- 💼 About Me
-- 🌱 Learning: Enhancing my skills in **gen AI** and **flask**.
-- 🛠️ Passionate about **full stack web development** and **machine learning**.
-<!--- 👯 Available for collaboration in **web development** projects.-->
-<!--- 🔭 Currently working on: **[sentilect](https://github.com/manahiliqbal/Sentilect)**, a project leveraging hugging face API.-->
+ 
+  <div>
+    <h2>Final Year Computer Science Student</h2>
+    <p>🔍 <strong>Learning Full Stack Development</strong> | 🤖 <strong>Exploring Machine Learning</strong></p>
+    
+  <h3>🔗 Connect with Me</h3>
+    <p>
+      <a href="https://linkedin.com/in/manahil-iqbal">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+      </a>
+      <a href="https://leetcode.com/manahiliqbal">
+        <img src="https://img.shields.io/badge/LeetCode-green?style=for-the-badge" alt="LeetCode">
+      </a>
+      <a href="https://manahiliqbal.my.canva.site/portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge" alt="Portfolio">
+      </a>
+    </p>
+    
+  <h3>💼 About Me</h3>
+    <ul>
+      <li>🌱 Currently learning and exploring <strong>Generative AI</strong> and <strong>Flask</strong>.</li>
+      <li>🛠️ Passionate about building impactful solutions using <strong>Full Stack Web Development</strong> and <strong>Machine Learning</strong>.</li>
+    </ul>
+  </div>
+</div>
 
 
 
@@ -91,7 +96,6 @@ Here are some ideas to get you started:
 <!--![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)-->
 <!--![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)-->
 
-</div>
 </div>
 
 
