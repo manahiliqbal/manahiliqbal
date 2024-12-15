@@ -37,15 +37,14 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manahiliqbal&show_icons=true&locale=en&theme=dark" alt="manahiliqbal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahiliqbal&theme=dark" alt="manahiliqbal" /></p> -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="100%" height="100%" />
-    </td>
-    <td style="padding-left: 20px;">
-      <h2>Final Year Computer Science Student</h2>
-      <p>🔍 <strong>Learning Full Stack Development</strong> | 🤖 <strong>Exploring Machine Learning</strong></p>
-      <h3>🔗 Connect with Me</h3>
+<img src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header_b.gif" width="50%" height="70%" />
+<spacer width="20"></spacer>
+<div>
+  <h2>Final Year Computer Science Student</h2>
+  <p>🔍 <strong>Learning Full Stack Development</strong> | 🤖 <strong>Exploring Machine Learning</strong></p>
+</div>
+
+  <h3>🔗 Connect with Me</h3>
     <p>
       <a href="https://linkedin.com/in/manahil-iqbal">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
@@ -63,9 +62,7 @@ Here are some ideas to get you started:
       <li>🌱 Currently learning and exploring <strong>Generative AI</strong> and <strong>Flask</strong>.</li>
       <li>🛠️ Passionate about building impactful solutions using <strong>Full Stack Web Development</strong> and <strong>Machine Learning</strong>.</li>
     </ul>
-    </td>
-  </tr>
-</table>
+  
 
 <!-- <div>
 
