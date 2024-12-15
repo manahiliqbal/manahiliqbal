@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 
 🚀 A final year Computer Science student learning Full Stack Development and Machine Learning
 
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="1o0%"/>
+
  🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manahil-iqbal)
