@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 <div>
 
-  <img align="left" src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="40%" height="70%" />
+  <img align="left" src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="60%" height="70%" />
 
-   Hi, I'm manahil 🌱 
+   <h3> Hi, I'm manahil 🌱 </h3> 
    <br>
    Final Year Computer Science Student
    <br>
