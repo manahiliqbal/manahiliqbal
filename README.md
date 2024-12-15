@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
   <img align="left" src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="50%" height="70%" />
 
-
+  Hi, I'm manahil 🌱
   Final Year Computer Science Student
     🔍 <strong>Learning Full Stack Development | 🤖 <strong>Exploring Machine Learning
     
