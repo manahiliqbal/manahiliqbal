@@ -37,10 +37,12 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manahiliqbal&show_icons=true&locale=en&theme=dark" alt="manahiliqbal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahiliqbal&theme=dark" alt="manahiliqbal" /></p> -->
-<img src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header_3.gif" width="100%" height="30%" />
+
+<img src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header_4.gif" width="100%" height="30%" />
 <spacer width="20"></spacer>
 <div>
-  <h2>Final Year Computer Science Student</h2>
+  <h2>Hi, I'm Manahil 🌱</h2>
+  <h3>Final Year Computer Science Student</h3>
   <p>🔍 <strong>Learning Full Stack Development</strong> | 🤖 <strong>Exploring Machine Learning</strong></p>
 </div>
 
