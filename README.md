@@ -43,9 +43,9 @@ Here are some ideas to get you started:
   <img align="left" src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header.gif" width="50%" height="70%" />
 
    <h3> Hi, I'm manahil 🌱 </h3> 
-   <br>
+ 
    <h4> Final Year Computer Science Student </h4> 
-   <br>
+
   🔍 <strong>Learning Full Stack Development</strong> | 🤖 <strong>Exploring Machine Learning</strong>
     
   <h3>🔗 Connect with Me</h3>
