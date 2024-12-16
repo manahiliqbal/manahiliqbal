@@ -142,6 +142,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manahiliqbal&show_icons=true&theme=transparent&count_private=true)
+<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manahiliqbal&layout=compact&theme=transparent)
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahiliqbal&layout=compact&theme=transparent" alt="manahiliqbal" /></p> -->
 </div>
