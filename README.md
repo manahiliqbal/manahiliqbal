@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 <img src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header_4.gif" width="100%" height="30%" />
 <spacer width="20"></spacer>
 <div>
-  <h2>Hi, I'm Manahil 🌱</h2>
-  <h3>Final Year Computer Science Student</h3>
-  <p>🔍 <strong>Learning Full Stack Development</strong> | 🤖 <strong>Exploring Machine Learning</strong></p>
+<h2>Hi, I'm Manahil 🌱</h2>
+<h3>Final Year Computer Science Student</h3>
+<p>🔍 <strong>Learning Full Stack Development</strong> | 🤖 <strong>Exploring Machine Learning</strong></p>
 </div>
 
-  <h3>🔗 Connect with Me</h3>
+<h3>🔗 Connect with Me</h3>
     <p>
       <a href="https://linkedin.com/in/manahil-iqbal">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
       </a>
     </p>
     
-  <h3>💼 About Me</h3>
+<h3>💼 About Me</h3>
     <ul>
       <li>🌱 Currently learning and exploring <strong>Generative AI</strong> and <strong>Flask</strong>.</li>
       <li>🛠️ Passionate about building impactful solutions using <strong>Full Stack Web Development</strong> and <strong>Machine Learning</strong>.</li>
