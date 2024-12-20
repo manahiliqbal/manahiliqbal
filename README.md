@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <spacer width="20"></spacer>
 <div>
 <h2>Hi, I'm Manahil 🌱</h2>
-<h3>Final Year Computer Science Student</h3>
+Final Year Computer Science Student
 🔍 <strong>Learning Full Stack Development</strong> | 🤖 <strong>Exploring Machine Learning</strong>
 </div>
 
