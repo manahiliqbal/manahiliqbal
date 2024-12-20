@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 <div>
 <h2>Hi, I'm Manahil 🌱</h2>
 Final Year Computer Science Student
+    <br>
 🔍 <strong>Learning Full Stack Development</strong> | 🤖 <strong>Exploring Machine Learning</strong>
 </div>
 
