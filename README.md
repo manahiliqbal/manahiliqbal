@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 <spacer width="20"></spacer>
 <div>
 <h2>Hi, I'm Manahil 🌱</h2>
-Final Year Computer Science Student
+a final year computer science student
     <br>
-🔍 <strong>Learning Full Stack Development</strong> | 🤖 <strong>Exploring Machine Learning</strong>
+🔍 <strong>learning full stack dev</strong> | 🤖 <strong>exploring machine learning and gen AI</strong>
 </div>
 
 <h3>🔗 Connect with Me</h3>
@@ -150,7 +150,6 @@ Final Year Computer Science Student
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manahiliqbal&label=Profile%20views&color=0e75b6&style=flat" alt="manahiliqbal"/> </p>
 <!--🏅 Certifications & Achievements
-- **Certified AWS Solutions Architect** – [Certification Link](link-to-certification)
 - **LeetCode Top 10%** – Ranked in the top 10% of global LeetCode problem solvers.
 - **Open-Source Contributor** – Contributed to X open-source repositories. -->
 
