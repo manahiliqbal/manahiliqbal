@@ -43,8 +43,9 @@ Here are some ideas to get you started:
 <div>
 <h2>Hi, I'm Manahil 🌱</h2>
 a final year computer science student
-    <br>
-🔍 <strong>learning full stack dev</strong> | 🤖 <strong>exploring machine learning and gen AI</strong>
+    <br><br>
+🔍 <strong>learning full stack dev</strong> <br>
+🤖 <strong>exploring machine learning and gen AI</strong>
 </div>
 
 <h3>🔗 Connect with Me</h3>
