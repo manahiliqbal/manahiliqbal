@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahiliqbal&theme=dark" alt="manahiliqbal" /></p> -->
 
-<img src="https://github.com/manahiliqbal/manahiliqbal/blob/main/header_4.gif" width="100%" height="30%" />
+<img src="https://github.com/manahiliqbal/manahiliqbal/blob/main/calm-night.gif" width="100%" height="30%" />
 <spacer width="20"></spacer>
 <div>
 <h2>Hi, I'm Manahil 🌱</h2>
