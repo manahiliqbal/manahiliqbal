@@ -146,7 +146,8 @@ a final year computer science student
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manahiliqbal&show_icons=true&theme=transparent&count_private=true)
 <br> <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manahiliqbal&layout=compact&theme=transparent)
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manahiliqbal&layout=compact&theme=transparent" alt="manahiliqbal" /></p> -->
+<br> <br>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=manahiliqbal&layout=compact&theme=transparent) 
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manahiliqbal&label=Profile%20views&color=0e75b6&style=flat" alt="manahiliqbal"/> </p>
