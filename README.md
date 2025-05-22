@@ -55,7 +55,7 @@ a final year computer science student
     
 <h3>💼 About Me</h3>
     <ul>
-      <li>🌱 Currently learning and exploring <strong>Generative AI</strong> and <strong>ML libraries</strong>.</li>
+      <li>🌱 Currently learning <strong>Generative AI</strong> and <strong>ML libraries</strong>.</li>
       <li>🛠️ Passionate about building impactful solutions using <strong>Full Stack Web Development</strong> and <strong>Machine Learning</strong>.</li>
     </ul>
   
