@@ -32,7 +32,7 @@
 <spacer width="20"></spacer>
 <div>
 <h2>Hi, I'm Manahil 🌱</h2>
-a final year computer science student
+a computer science graduate working as an AI engineer
     <br><br>
 🔍 <strong>learning full stack dev</strong> <br>
 🤖 <strong>exploring machine learning and gen AI</strong>
