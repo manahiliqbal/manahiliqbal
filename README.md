@@ -1,7 +1,7 @@
 
 <img src="https://github.com/manahiliqbal/manahiliqbal/blob/main/calm-night.gif" width="100%" height="30%" />
 
-<h1 align="center">Hi, I'm Manahil Iqbal 🌻</h1>
+<h1 align="center">Hi, I'm Manahil ⋆｡‧˚ʚ🔮ɞ˚‧｡⋆ </h1>
 <h3 align="center">AI Engineer • CS Graduate • Full Stack AI Developer</h3>
 
 <p align="center">
