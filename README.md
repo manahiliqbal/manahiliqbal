@@ -21,7 +21,7 @@
   <a href="https://leetcode.com/manahiliqbal">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge" alt="LeetCode">
   </a>
-  <a href="https://manahiliqbal.my.canva.site/portfolio">
+  <a href="https://manahil-iqbals-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge" alt="Portfolio">
   </a>
   <a href="mailto:manahiliqbal0511@gmail.com">
